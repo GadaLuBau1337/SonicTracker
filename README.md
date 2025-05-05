@@ -28,7 +28,7 @@ python3 SonicTracker.py
 
 Display on the menu ```IP Tracker```
 
-<img src="https://github.com/gadalubau/1337SonicTracker/blob/main/asset/ip.png " />
+<img src="https://github.com/gadalubau1337/SonicTracker/blob/main/asset/ip.png " />
 
 on the IP Track menu, you can combo with the seeker tool to get the target IP
 <details>
