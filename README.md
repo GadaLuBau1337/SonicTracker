@@ -49,5 +49,5 @@ on this menu you can search for information from the target username on social m
 
 <details>
 <summary>:zap: Author :</summary>
-- <strong><a href="https://github.com/gadalubau1337">HunxByts</a></strong>
+- <strong><a href="https://github.com/gadalubau1337">GadaLuBau</a></strong>
 </details>
