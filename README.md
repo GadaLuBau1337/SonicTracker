@@ -1,7 +1,7 @@
 # SonicTracker
 Useful tool to track location or mobile number, so this tool can be called osint or also information gathering
 
-<img src="https://github.com/gadalubau1337/SonicTacker/blob/main/asset/bn.png"/>
+<img src="https://github.com/gadalubau1337/SonicTracker/blob/main/asset/bn.png"/>
 
 New update :
 ```Version 1.0```
